@@ -15,3 +15,10 @@ At least 8 characters
 At least one uppercase letter
 At least one number
 At least one special character
+
+## Phone Number Validation
+Must start with South Africa’s international code: +27
+Must be exactly 12 characters long
+User Registration
+Validates all inputs before saving user details
+Returns appropriate error messages if validation fails
