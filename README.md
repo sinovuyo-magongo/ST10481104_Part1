@@ -1,8 +1,6 @@
-- # ST10481104_Part 1 
-- Part 1 Repository
-- #Chart Application - PART 1
-
-Student Information
+- # Chart Application - Part 1
+   
+## Student Information
 - Name; Sinovuyo
 - Student Number; ST10481104
 - Module; PROG5121
