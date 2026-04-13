@@ -22,3 +22,19 @@ Must be exactly 12 characters long
 User Registration
 Validates all inputs before saving user details
 Returns appropriate error messages if validation fails
+
+## User Login
+Checks entered username and password against stored values
+Login Status Feedback
+Displays a welcome message on successful login
+Displays an error message on failure
+Class Structure
+Login.java
+Methods:
+Method	Description
+checkUserName(String username)	Validates username format
+checkPasswordComplexity(String password)	Validates password strength
+checkCellPhoneNumber(String phone)	Validates SA phone number
+registerUser(String username, String password, String phoneNumber)	Registers a user
+loginUser(String username, String password)	Authenticates user
+returnLoginStatus(boolean success)	Returns login message
